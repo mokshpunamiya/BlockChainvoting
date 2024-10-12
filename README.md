@@ -1,6 +1,6 @@
 # BlockChainVoting
 
-A blockchain-based E-voting system, created as the final year project of Shri Bhagubhai Mafatlal Polytechnic. Teammates include me, Sayyam Gada and Charmee Mehta.
+A blockchain-based E-voting system, created as the mini project of Thadomal Shahani Engineering College. Teammates include me, Sayyam Gada and Charmee Mehta.
 > The application is MIT-Licensed.
 
 ## Build Setup
